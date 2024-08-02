@@ -1,0 +1,14 @@
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.AssemblyInfoInputs.cache
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.AssemblyInfo.cs
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\bin\Debug\net8.0\LinqTolkien.exe
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\bin\Debug\net8.0\LinqTolkien.deps.json
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\bin\Debug\net8.0\LinqTolkien.runtimeconfig.json
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\bin\Debug\net8.0\LinqTolkien.dll
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\bin\Debug\net8.0\LinqTolkien.pdb
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.dll
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\refint\LinqTolkien.dll
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.pdb
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\LinqTolkien.genruntimeconfig.cache
+C:\Users\Jeff\Documents\estudos\c#\LinqTolkien\LinqTolkien\LinqTolkien\obj\Debug\net8.0\ref\LinqTolkien.dll
